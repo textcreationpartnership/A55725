@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Present war no burthen to England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55725</idno>
+            <idno type="STC">Wing P3277</idno>
+            <idno type="STC">ESTC R36684</idno>
+            <idno type="EEBO-CITATION">15870471</idno>
+            <idno type="OCLC">ocm 15870471</idno>
+            <idno type="VID">104664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Present war no burthen to England</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Economic conditions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104664:1"/>
+            <!-- PDF PAGE 74 -->
+            <p>THE Preſent War NO BURTHEN TO England.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>Randal Taylor</hi> near <hi>Amen-Corner,</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104664:2"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="1" facs="tcp:104664:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>The Preſent War NO Burthen to <hi>England.</hi>
+            </head>
+            <p>SOme ſort of People having wearied our them<g ref="char:EOLhyphen"/>ſelves, in finding fault with the Government, and reviling ſometimes the <hi>Dutch,</hi> as ready to ſtrike up a private Peace; ſometimes the whole Body of the <hi>Allies,</hi> as none of them having done their Duty: The general Cry of that Party now is, That Money being carryed abroad for the Pay<g ref="char:EOLhyphen"/>ment of our Forces, it will in time exhauſt the Trea<g ref="char:EOLhyphen"/>ſure of the Nation, and impoveriſh it: Which ſeems ſo palpable a thing, and begins to gain ſo much ground upon the Belief of many (otherwiſe well-affected) People, That a longer delay in ſhew<g ref="char:EOLhyphen"/>ing the falſity of that Notion, might ſeem of a dan<g ref="char:EOLhyphen"/>gerous Conſequence: Therefore I think it will not be improper, to prove, That the War increaſing our Trade, and occaſioning a greater Vent and Ex<g ref="char:EOLhyphen"/>portation of our Manufactures, and of the Product of our Ground, inriches the Nation, and augments its Stock.</p>
+            <pb n="2" facs="tcp:104664:3"/>
+            <!-- PDF PAGE 76 -->
+            <p n="1">In the <hi>Firſt</hi> Place, The Vent of our Woollen Ma<g ref="char:EOLhyphen"/>nufactures is greater than heretofore, which appears not only by that it is generally advanced in Price, but in that there is a greater Quantity now ex<g ref="char:EOLhyphen"/>ported than in Times of Peace, as may be ſeen by the Entries in the Cuſtom-houſes.</p>
+            <p n="2">
+               <hi>Secondly,</hi> The Manufactures of Silk, Linnen, Pa<g ref="char:EOLhyphen"/>per and others, have ſince the War been conſidera<g ref="char:EOLhyphen"/>bly forwarded; there is no longer need of impor<g ref="char:EOLhyphen"/>ting flowr'd and mixt Silks, good quantity of plain Silk is made here, as likewiſe of Linnen and Paper, which ſaves and keeps ſo much Money in the Na<g ref="char:EOLhyphen"/>tion, as formerly was ſent out to purchaſe thoſe Commodities.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> Corn, (which by the Bleſſing of God hath been hitherto plentiful amongſt us, although very ſcarce amongſt our Neighbours) Tobacco, Su<g ref="char:EOLhyphen"/>gar, and many others the Products of our Ground, bear a better Price than they ſhould in a peaceable Time, by the greater Exportation abroad; The <hi>Ne<g ref="char:EOLhyphen"/>therlands</hi> alone taking more of theſe Commodities and of our Manufactures, than what is remitted thi<g ref="char:EOLhyphen"/>ther for the maintaining of our Forces, comes to; I ſay, taking more, over and above what they did in time of Peace. For how can it be imagined that ſo ſmall a Tract of Ground, as the <hi>Spaniards</hi> have left in the <hi>Low-Countries,</hi> which doth not extend to above Thirty Miles in breadth, and an Hundred Miles in length, and which by the great and nume<g ref="char:EOLhyphen"/>rous Armies that continually haraſs it, yields little or nothing; ſhould ſuffice to maintain Two Hun<g ref="char:EOLhyphen"/>dred
+<pb n="3" facs="tcp:104664:3"/>
+               <!-- PDF PAGE 76 -->Thouſand Men and Horſes of the <hi>Allies,</hi> be<g ref="char:EOLhyphen"/>ſides the Inhabitants of eleven great Towns, and of an innumerable quantity of Villages, Caſtles, and Strong-holds: Certainly that prodigious Number of People muſt be ſupported and maintained from the Neighbouring Countries. The <hi>Dutch,</hi> indeed, ſupply them in a good meaſure, (for otherwiſe being obliged to ſend Money thither for the pay<g ref="char:EOLhyphen"/>ment of their Forces, their Treaſure alſo would in time be exhauſted, and they impoveriſh't) but they draw the greateſt part of their Maintenance from us; our Wheat, our Malt, our Oats, our Tobacco, our Sugar, go thither for their Food; our Cloth, our Serges, our Bayes, our Stockings, our Hats, are ſent them for their Cloathing; our Coals for their Fuel; our Lead, our Powder, our Arms, for their Warlike Service; our Tallow, our Pewter, our Lea<g ref="char:EOLhyphen"/>ther, and Thouſands of other Things, for their o<g ref="char:EOLhyphen"/>ther neceſſary Uſes: Nay, our Wine, our Brandy, our Salt, (that we take from our Enemies as Prize, and which otherwiſe would be deſtroyed) are ſent and vended amongſt them, and the Money it pro<g ref="char:EOLhyphen"/>duces turned to the Nations Advantage; So that the fifty or ſixty Thouſand Pounds a Month we re<g ref="char:EOLhyphen"/>mit thither for the Payment of our Forces, comes Monthly to us again for the Payment of all thoſe Neceſſaries; from whence perhaps this Inference might be drawn, that the more Forces we ſend in<g ref="char:EOLhyphen"/>to <hi>Flanders,</hi> provided the <hi>Allies</hi> do ſend an anſwer<g ref="char:EOLhyphen"/>able Number, the Better <hi>England</hi> will fare, and the Richer grow.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> Trade in general is much increas'd.</p>
+            <pb n="4" facs="tcp:104664:4"/>
+            <!-- PDF PAGE 77 -->
+            <list>
+               <item n="1">1. The <hi>Plantations</hi> and <hi>Weſt-Indias</hi> Trade is no leſs, but rather better; That of <hi>Jamaica</hi> eſpecially, which is now Treble of what it was before the War, by the great Tranſportation of Linnen, and other things from that Iſland, to the Coaſt of <hi>Terra Ferma</hi> of <hi>A<g ref="char:EOLhyphen"/>merica.</hi>
+               </item>
+               <item n="2">2. That of <hi>Turkey</hi> is as conſiderable, there going now as much Cloth for <hi>Turkey</hi> in one Fleet, as for<g ref="char:EOLhyphen"/>merly did in two or three Years.</item>
+               <item n="3">3. That of <hi>Spain</hi> as good, we now ſending thither ſome of the Commodities the <hi>French</hi> uſed to carry into <hi>Spain,</hi> and drawing from thence, Wines and o<g ref="char:EOLhyphen"/>ther Commodities in a greater quantity than hereto<g ref="char:EOLhyphen"/>fore.</item>
+               <item n="4">4. The Trade to <hi>Italy</hi> is conſiderably Increaſed, not only by our getting from thence more Paper and Silk; (this laſt for the carrying on our Manufac<g ref="char:EOLhyphen"/>tures here at Home) but likewiſe by our ſending thi<g ref="char:EOLhyphen"/>ther abundance of Cloth, and other woollen Manu<g ref="char:EOLhyphen"/>factures; Lead, Tin, Leather, and other things for the ſervice and cloathing of the Forces in <hi>Piedmont,</hi> the <hi>Milanez,</hi> and other parts of <hi>Italy.</hi> The Iſlands of <hi>Sicily</hi> and <hi>Sardinia;</hi> The Kingdom of <hi>Naples,</hi> and the State of <hi>Milan,</hi> by the prohibition of <hi>French</hi> Commodities, drawing now from us ſeveral ſorts of Goods which they uſually got out of <hi>France.</hi>
+               </item>
+               <item n="5">5. That of <hi>Portugal</hi> hath received a conſiderable Improvement; We fetching from thence more Wines
+<pb n="5" facs="tcp:104664:4"/>
+                  <!-- PDF PAGE 77 -->than we did formerly, and ſending thither in Return, a much greater quantity of Lead, Tin, Coperas, Ser<g ref="char:EOLhyphen"/>ges, Bayes, Sayes, &amp;c. than in time of Peace.</item>
+               <item n="6">6. The Trade to all Northern parts, as <hi>Ruſſia, Sue<g ref="char:EOLhyphen"/>den, Denmark, Norway,</hi> is more conſiderable, by our greater importation of Hemp, Pitch, Tar, and other products of thoſe Cold olymates.</item>
+               <item n="7">7. The <hi>Germany</hi> Trade, as that of <hi>Dantſick, Lu<g ref="char:EOLhyphen"/>beck, Hambourg, Bremen,</hi> is three times what it was heretofore, by the great quantities of Linnen we import from thence, not only for our own Uſe, but like<g ref="char:EOLhyphen"/>wiſe for Tranſportation to <hi>Jamaica</hi> and <hi>Spain;</hi> as al<g ref="char:EOLhyphen"/>ſo becauſe we ſend them more Cloth, and all other Woollen Manufactures, more Tin, Lead, Coals, Wines, Brandy and Salt, than we uſed to do.</item>
+               <item n="8">8. That of <hi>Holland</hi> and <hi>Flanders,</hi> what a vaſt ad<g ref="char:EOLhyphen"/>dition hath it not received? By the prodigious quan<g ref="char:EOLhyphen"/>tities of Corn of all ſorts, Sugar, Tabocco, Tin, Lead, Coals, Cloth, Bayes, Sayes, Serges, Stuffs, Stockings, <hi>&amp;c.</hi> of our own Manufacture and Product, we ſend thither; in ſuch a degree, that where there was for<g ref="char:EOLhyphen"/>merly one Veſſel Trading between the <hi>Netherlands</hi> and the Iſland of <hi>Great Britain,</hi> there is now Scores of Ships imployed in the mutual Service of both Countries.</item>
+               <item n="9">9. The Trade of <hi>France</hi> indeed is leſſen'd, but is much more advantagious: Our Money (and in a conſiderable quantity too) was yearly ſent to that Kingdom for its Products, whereas now whatever
+<pb n="6" facs="tcp:104664:5"/>
+                  <!-- PDF PAGE 78 -->we get of <hi>French</hi> Commodities coſts us nothing, but is ſold by our Privateers, and Merchants concern'd with them, in <hi>Flanders</hi> and <hi>Germany,</hi> for good Mo<g ref="char:EOLhyphen"/>ney, which is ſo much profit, that accrues to the Nation.</item>
+            </list>
+            <p>In fine, it appears by the Cuſtom's Books, That we export more, and that the Cuſtoms yearly render more than they did in Time of Peace: There being not one Forreign Commodity of any kind, wanted here amongſt us, nor any of ours, that our Friends are not ſup<g ref="char:EOLhyphen"/>plyed with: And (which is Remarkable) Trade is not thus generally increaſed; but notwithſtanding our many (and ſo much talk of) Loſſes, 'tis much better than in time of Peace, it being Noted, that ſince the War, not above four or five Merchants of any Name, have gone off th' Exchange; whereas there yearly broke ſome dozens, if not ſome Scores in Peaceable times.</p>
+            <p>And although the Ships our Enemies have taken from us, be many (which there is good ground to hope, by our late Signal Victory at Sea, and the burning of ſo many Enemies Capital Ships, will in a good meaſure be prevented for the future) 'tis cer<g ref="char:EOLhyphen"/>tain that moſt of them have been Re-taken by us, or by our friends; for if it be true, that the <hi>French</hi> have little Trade, and few Ships of their own; how doth it happen, that our Privateers, and thoſe of <hi>Zealand, Oſtend, Brandenbourg</hi> and <hi>Biſcay,</hi> have ta<g ref="char:EOLhyphen"/>ken ſo many prizes as amount to no leſs than Twen<g ref="char:EOLhyphen"/>ty Five Hundred Ships, unleſs we have Re-taken our own; And indeed the <hi>French</hi> do little brag of
+<pb n="7" facs="tcp:104664:5"/>
+               <!-- PDF PAGE 78 -->their Profits by Sea, there being Letters writ from <hi>France,</hi> and writ very feelingly too, that ſay, thoſe damn'd <hi>Zeelanders</hi> have not left us one Ship to Trade withall: And if I am rightly inform'd, al<g ref="char:EOLhyphen"/>though their Trade be ſmall, Shipping however is ſo very ſcarce amongſt them, that they want Veſ<g ref="char:EOLhyphen"/>ſels to carry on that inconſiderable Trade they have, and upon the leaſt Occaſion muſt hire <hi>Danes</hi> and <hi>Suedes,</hi> and ſometimes force them too, to Car<g ref="char:EOLhyphen"/>ry their Goods and proviſions from one Port of <hi>France,</hi> to the other.</p>
+            <p>If from Trade, we turn our thoughts to other parts of the Nation; is there any Sort, or Rank of People that can complain they ſuffer: The Wages and Salaries of labouring-men are rather higher than in time of Peace: The Handycraft-men want no Work, and vend it eaſily, and at good Rates; Nay, ſeveral Handycrafts are ſet up by the War, which are needleſs in times of Peace: The Farmer ſells his Corn, his Timber, his Hops, his Cattel, better than at any other time, and thereby is enabled to pay better his Rent: The Shop keeper h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th as good and as great a Retail: The Rich-mo<g ref="char:EOLhyphen"/>ny'd-man an Opportunity of Lending his Money to a better Advantage: The Land-man indeed muſt pay Taxes, and if the Tax were equally laid, a ſmall Share of his Revenue, (which is the only viſible hardſhip); but in lieu thereof, how many Gentle<g ref="char:EOLhyphen"/>men are there, that have Imployments, and by thoſe Imploys, get more than they give towards the War? What Family is there, that hath not either a Brother, a Son, or ſome other near Relation in
+<pb n="8" facs="tcp:104664:6"/>
+               <!-- PDF PAGE 79 -->the Fleet, or in the Army? And thereby is put in a Capacity not only of maintaining, but of raiſing it ſelf: Many a Younger Brother, that in time of Peace had been ready to ſtarve, hath now by the War, Hundreds to ſpend a year; Nay, many Va<g ref="char:EOLhyphen"/>gabonds, and other idle people of the Nation, have by the War an Opportunity of Honeſtly and Law<g ref="char:EOLhyphen"/>fully getting a lively-hood in the ſervice of their Country.</p>
+            <p>War is ſaid to be a Curſe to a Nation, 'tis true, but 'tis only ſo, where the Seat of War is, where all is Committed to Plunder, Rapine, Fire, Flames and ut<g ref="char:EOLhyphen"/>ter Deſolation. But how many Nations have Raiſed their Name, and Rendred themſelves Famous and Rich by War? The <hi>Perſians, Macedonians, Romans, Suedes,</hi> are Memorable inſtances of it, who all grew Great, Potent and Rich by their Wars.</p>
+            <p>The <hi>Dutch,</hi> when they form'd themſelves into a <hi>Common-wealth,</hi> were a handful of people, and had neither Ships, Money, or Strong Towns to boaſt of; but under the ever Auſpicious Conduct of the Princes of <hi>ORANGE,</hi> and by a fourſcore years <hi>Spaniſh</hi> War; They grew to that vaſt Wealth and Immenſe Grandeur, we have ſeen them ar<g ref="char:EOLhyphen"/>rived at.</p>
+            <p>And what have not Advantagious Wars brought into this Nation? Our Conqueſts in the <hi>Weſt In<g ref="char:EOLhyphen"/>dies,</hi> have for certain advanced our riches: The Fifty years War of <hi>Edward</hi> the Third againſt <hi>France,</hi> coſt <hi>England</hi> an immenſe Treaſure, and yet all our
+<pb n="9" facs="tcp:104664:6"/>
+               <!-- PDF PAGE 79 -->Chronicles ſay, <hi>England</hi> was never ſo rich as in his time: Our great Queen <hi>Elizabeth</hi> had not always a peaceable, though a happy and a golden Reign: <hi>Oliver</hi> was not in Peace, whilſt he govern'd; but no body then complained the Nation grew poor, every body was ſenſible it grew Rich: And had not the <hi>Richards,</hi> the <hi>Henries,</hi> and others our Heroick Princes, Render'd by their Wars abroad the Engliſh Name formidable throughout the world? I don't know, what our laſt Thirty-years-peace, would have brought us to, and whether we had been not the prey of a Neighbouring Prince, otherwiſe gree<g ref="char:EOLhyphen"/>dy and Powerful enough, but who perhaps was daunted by the remembrance of our Ancient Va<g ref="char:EOLhyphen"/>lour; and the glorious Atchievements of our Ance<g ref="char:EOLhyphen"/>ſtors.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
